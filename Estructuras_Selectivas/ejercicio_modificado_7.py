@@ -16,7 +16,7 @@ total = precio * llantas
 ahorro = (300000 - precio) * llantas
 
 # Mostrar resultados
-print("\n----- FACTURA -----")
+print(" FACTURA ")
 print("Llantas compradas:", llantas)
 print("Precio por llanta: $", precio)
 print("Total a pagar: $", total)
