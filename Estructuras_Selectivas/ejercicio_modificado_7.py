@@ -1,5 +1,5 @@
 # Pedir la cantidad de llantas
-llantas = int(input("INGRESA EL NUMERO DE LLANTAS COMPRADAS: "))
+llantas = int(input("INGRESA POR FAVOR EL NUMERO DE LLANTAS COMPRADAS: "))
 
 # Determinar el precio de cada llanta
 if llantas < 5:
